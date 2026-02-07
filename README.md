@@ -21,7 +21,7 @@ Check it out here 👉 [stupidprojectsbyraul.com](https://www.stupidprojectsbyra
 
 ### 🧺 [**Samsung Washer Card**](https://github.com/raulpetruta/samsung-ha-washer-card)  
 A beautiful, animated Home Assistant card for Samsung washing machines with SmartThings integration.  
-`Home Assistant` | `SmartThings` | `Lovelace`
+`Home Assistant` | `SmartThings` | `Lovelace` | `Samsung Washing Machine`
 
 ### 🚨 [**Stupid Port Snitch**](https://github.com/petrutaraul/stupidportsnitch)  
 A cross-platform UI for Nmap so even your grandma can scan ports (please don’t let her).  
