@@ -36,7 +36,7 @@ A Telegram bot that talks, listens, makes pictures, and probably knows your secr
 ## 📊 GitHub Stats (proof I actually code sometimes)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpetruta&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raulpetruta&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
