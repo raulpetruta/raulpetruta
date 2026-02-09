@@ -19,18 +19,17 @@ Check it out here 👉 [stupidprojectsbyraul.com](https://www.stupidprojectsbyra
 
 ## 🛠 Greatest Hits
 
-### 🧺 [**Samsung Washer Card**](https://github.com/raulpetruta/samsung-ha-washer-card)  
+### 📲 [**HA WhatsApp Bridge**](https://github.com/raulpetruta/ha-wa-bridge) ![Stars](https://img.shields.io/github/stars/raulpetruta/ha-wa-bridge?style=social)  
+A bridge to integrate WhatsApp with Home Assistant for sending messages and run automations based on received messages.  
+`Home Assistant` | `WhatsApp` | `Puppeteer` | `Docker`
+
+### 🧺 [**Samsung Washer Card**](https://github.com/raulpetruta/samsung-ha-washer-card) ![Stars](https://img.shields.io/github/stars/raulpetruta/samsung-ha-washer-card?style=social)  
 A beautiful, animated Home Assistant card for Samsung washing machines with SmartThings integration.  
 `Home Assistant` | `SmartThings` | `Lovelace` | `Samsung Washing Machine`
 
-### 🚨 [**Stupid Port Snitch**](https://github.com/petrutaraul/stupidportsnitch)  
+### 🚨 [**Stupid Port Snitch**](https://github.com/petrutaraul/stupidportsnitch) ![Stars](https://img.shields.io/github/stars/petrutaraul/stupidportsnitch?style=social)  
 A cross-platform UI for Nmap so even your grandma can scan ports (please don’t let her).  
 `TypeScript` | `React` | `Tailwind` | `Electron`
-
-### 🤖 [**EMA – Telegram AI Sidekick**](https://github.com/petrutaraul/ema)  
-A Telegram bot that talks, listens, makes pictures, and probably knows your secrets.  
-`Python` | `OpenAI` | `Chill vibes`
-
 ---
 
 ## 📊 GitHub Stats (proof I actually code sometimes)
