@@ -9,12 +9,6 @@ Welcome to my corner of the internet where I make projects for myself, and occas
 I’m just a developer from **Romania** who loves building cool, unnecessary, and sometimes actually useful things.  
 Mostly into **frontend** and visual stuff — if it looks nice and does something fun, I probably made it or broke it trying.
 
-## 🔥 Current Life Mission
-
-**Build stupid projects.**  
-Yes, that’s the brand. No, it’s not a joke.  
-Check it out here 👉 [stupidprojectsbyraul.com](https://www.stupidprojectsbyraul.com)
-
 ---
 
 ## 🛠 Greatest Hits
@@ -51,7 +45,6 @@ Feel free to explore my repos, clone them, break them, fix them (pls), or just d
 If you like what I do and want to help me keep doing it, or just buy me a coffee(I prefer protein shakes tbh), no pressure:
 
 - [Buy Me a Coffee](https://buymeacoffee.com/raulpetruta)
-- [Revolut Me](https://revolut.me/petrutaraul)
 - [PayPal](https://paypal.me/raulpetruta98)
 
 Thanks for fueling my chaotic creative energy 🧃
