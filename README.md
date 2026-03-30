@@ -21,10 +21,6 @@ A bridge to integrate WhatsApp with Home Assistant for sending messages and run 
 A beautiful, animated Home Assistant card for Samsung washing machines with SmartThings integration.  
 `Home Assistant` | `SmartThings` | `Lovelace` | `Samsung Washing Machine`
 
-### 🍎 [**Agent iOS App Development Skills**](https://github.com/raulpetruta/agent-ios-app-development-skills) ![Stars](https://img.shields.io/github/stars/raulpetruta/agent-ios-app-development-skills?style=social)  
-An open-source Apple app development AI skills pack for reusable iOS workflows like StoreKit, WidgetKit, Live Activities, HealthKit, and more.  
-`iOS` | `SwiftUI` | `AI Agents` | `Developer Tools`
-
 ### 🎙️ [**Voice Calibration Plugin**](https://github.com/raulpetruta/voice-calibration-plugin) ![Stars](https://img.shields.io/github/stars/raulpetruta/voice-calibration-plugin?style=social)  
 A voice plugin that teaches AI to write more like you.
 
