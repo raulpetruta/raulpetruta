@@ -26,8 +26,8 @@ An open-source Apple app development AI skills pack for reusable iOS workflows l
 `iOS` | `SwiftUI` | `AI Agents` | `Developer Tools`
 
 ### 🎙️ [**Voice Calibration Plugin**](https://github.com/raulpetruta/voice-calibration-plugin) ![Stars](https://img.shields.io/github/stars/raulpetruta/voice-calibration-plugin?style=social)  
-A plugin that learns your writing style through calibration prompts and generates a reusable voice profile so AI writes more like you.  
-`AI` | `Plugins` | `Writing Style` | `Developer Tools`
+A voice calibration plugin that teaches AI to write more like you.  
+`AI` | `Voice` | `Writing` | `Plugin`
 ---
 
 ## 📊 GitHub Stats (proof I actually code sometimes)
