@@ -21,9 +21,13 @@ A bridge to integrate WhatsApp with Home Assistant for sending messages and run 
 A beautiful, animated Home Assistant card for Samsung washing machines with SmartThings integration.  
 `Home Assistant` | `SmartThings` | `Lovelace` | `Samsung Washing Machine`
 
-### 🚨 [**Stupid Port Snitch**](https://github.com/petrutaraul/stupidportsnitch) ![Stars](https://img.shields.io/github/stars/petrutaraul/stupidportsnitch?style=social)  
-A cross-platform UI for Nmap so even your grandma can scan ports (please don’t let her).  
-`TypeScript` | `React` | `Tailwind` | `Electron`
+### 🍎 [**Agent iOS App Development Skills**](https://github.com/raulpetruta/agent-ios-app-development-skills) ![Stars](https://img.shields.io/github/stars/raulpetruta/agent-ios-app-development-skills?style=social)  
+An open-source Apple app development AI skills pack for reusable iOS workflows like StoreKit, WidgetKit, Live Activities, HealthKit, and more.  
+`iOS` | `SwiftUI` | `AI Agents` | `Developer Tools`
+
+### 🎙️ [**Voice Calibration Plugin**](https://github.com/raulpetruta/voice-calibration-plugin) ![Stars](https://img.shields.io/github/stars/raulpetruta/voice-calibration-plugin?style=social)  
+A plugin that learns your writing style through calibration prompts and generates a reusable voice profile so AI writes more like you.  
+`AI` | `Plugins` | `Writing Style` | `Developer Tools`
 ---
 
 ## 📊 GitHub Stats (proof I actually code sometimes)
