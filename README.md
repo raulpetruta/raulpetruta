@@ -31,9 +31,23 @@ A voice plugin that teaches AI to write more like you.
 ## 📊 GitHub Stats (proof I actually code sometimes)
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raulpetruta/raulpetruta/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/raulpetruta/raulpetruta/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+<p align="center"><i>🐍 A snake eats my commits every day. It's the only one who appreciates my work.</i></p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="When I code" />
+</p>
+<p align="center"><i>📈 Numbers that look great until you check how many repos are called "test-final-v2". The clock shows when I code (aka when I should be asleep).</i></p>
+
+<p align="center">
   <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
+<p align="center"><i>💛 JavaScript: the language I love to hate and hate to love.</i></p>
 
 ---
 
