@@ -36,7 +36,7 @@ A voice plugin that teaches AI to write more like you.
     <img src="https://raw.githubusercontent.com/raulpetruta/raulpetruta/output/github-snake.svg" alt="Snake eating my contribution graph" />
   </picture>
 </p>
-<p align="center"><i>🐍 A snake eats my commits every day. It's the only one who appreciates my work.</i></p>
+<p align="center"><i>🐍 A snake eats my commits every day.</i></p>
 
 <p align="center">
   <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
