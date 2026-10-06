@@ -31,7 +31,8 @@ A voice plugin that teaches AI to write more like you.
 ## 📊 GitHub Stats (proof I actually code sometimes)
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raulpetruta&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top Langs" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
 
 ---
