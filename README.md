@@ -47,7 +47,7 @@ A voice plugin that teaches AI to write more like you.
 <p align="center">
   <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
-<p align="center"><i>💛 JavaScript: the language I love to hate and hate to love.</i></p>
+<p align="center"><i>💛 JavaScript: the language I love to hate and hate to love. But let's be honest, we all know <img src="https://cdn.simpleicons.org/claude/D97757" height="14" alt="Claude" /> Claude does all the work.</i></p>
 
 ---
 
