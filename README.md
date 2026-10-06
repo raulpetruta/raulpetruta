@@ -39,7 +39,6 @@ A voice plugin that teaches AI to write more like you.
 
 <p align="center">
   <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
-  <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="When I code" />
 </p>
 <p align="center">
   <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
