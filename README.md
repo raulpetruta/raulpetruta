@@ -42,8 +42,6 @@ A voice plugin that teaches AI to write more like you.
   <img src="./profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
   <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="When I code" />
 </p>
-<p align="center"><i>📈 Numbers that look great until you check how many repos are called "test-final-v2". The clock shows when I code (aka when I should be asleep).</i></p>
-
 <p align="center">
   <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" />
 </p>
