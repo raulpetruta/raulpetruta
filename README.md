@@ -26,6 +26,9 @@ Mostly into **frontend** and visual stuff — if it looks nice and does somethin
       <code>Home Assistant</code> | <code>SmartThings</code> | <code>Lovelace</code> | <code>Samsung Washing Machine</code>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td valign="top" width="50%">
       <h3>🎙️ <a href="https://github.com/raulpetruta/voice-calibration-plugin">Voice Calibration Plugin</a> <img src="https://img.shields.io/github/stars/raulpetruta/voice-calibration-plugin?style=social" alt="Stars" /></h3>
@@ -38,6 +41,9 @@ Mostly into **frontend** and visual stuff — if it looks nice and does somethin
       <code>Home Assistant</code> | <code>Govee</code> | <code>HACS</code> | <code>LAN</code>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td valign="top" width="50%">
       <h3>🎥 <a href="https://github.com/raulpetruta/obs-cine-zoom">OBS Cine Zoom</a> <img src="https://img.shields.io/github/stars/raulpetruta/obs-cine-zoom?style=social" alt="Stars" /></h3>
