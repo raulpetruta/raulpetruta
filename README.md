@@ -26,6 +26,21 @@ A voice plugin that teaches AI to write more like you.
 
 `AI` | `Voice` | `Writing`
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💡 <a href="https://github.com/raulpetruta/ha-govee-ring">Govee Ring</a> <img src="https://img.shields.io/github/stars/raulpetruta/ha-govee-ring?style=social" alt="Stars" /></h3>
+      Control the ring of a Govee H60A4 ceiling light separately from its main panel in Home Assistant, fully local.<br /><br />
+      <code>Home Assistant</code> | <code>Govee</code> | <code>HACS</code> | <code>LAN</code>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎥 <a href="https://github.com/raulpetruta/obs-cine-zoom">OBS Cine Zoom</a> <img src="https://img.shields.io/github/stars/raulpetruta/obs-cine-zoom?style=social" alt="Stars" /></h3>
+      An OBS Studio Lua script that zooms a display capture and follows your mouse, with smooth spring motion and auto-zoom on clicks, in the spirit of Screen Studio.<br /><br />
+      <code>OBS Studio</code> | <code>Lua</code> | <code>Screen Recording</code> | <code>Zoom</code>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📊 GitHub Stats (proof I actually code sometimes)
