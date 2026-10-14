@@ -1,5 +1,5 @@
 # Hey there, I'm Raul! 👋
-  <img src="https://hits.sh/github.com/raulpetruta.svg?style=flat-square&label=Profile%20views&color=blue" alt="Profile views" />
+  <a href="https://github.com/raulpetruta?tab=followers"><img src="https://img.shields.io/github/followers/raulpetruta?style=flat-square&label=Followers&color=blue" alt="Followers" /></a>
 
 I build **stupid things** — but like, _on purpose_.  
 Welcome to my corner of the internet where I make projects for myself, and occasionally, for the internet to judge (gently, I hope).
