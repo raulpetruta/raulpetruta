@@ -13,31 +13,38 @@ Mostly into **frontend** and visual stuff — if it looks nice and does somethin
 
 ## 🛠 Greatest Hits
 
-### 📲 [**HA WhatsApp Bridge**](https://github.com/raulpetruta/ha-wa-bridge) ![Stars](https://img.shields.io/github/stars/raulpetruta/ha-wa-bridge?style=social)  
-A bridge to integrate WhatsApp with Home Assistant for sending messages and run automations based on received messages.  
-`Home Assistant` | `WhatsApp` | `Puppeteer` | `Docker`
-
-### 🧺 [**Samsung Washer Card**](https://github.com/raulpetruta/samsung-ha-washer-card) ![Stars](https://img.shields.io/github/stars/raulpetruta/samsung-ha-washer-card?style=social)  
-A beautiful, animated Home Assistant card for Samsung washing machines with SmartThings integration.  
-`Home Assistant` | `SmartThings` | `Lovelace` | `Samsung Washing Machine`
-
-### 🎙️ [**Voice Calibration Plugin**](https://github.com/raulpetruta/voice-calibration-plugin) ![Stars](https://img.shields.io/github/stars/raulpetruta/voice-calibration-plugin?style=social)  
-A voice plugin that teaches AI to write more like you.
-
-`AI` | `Voice` | `Writing`
-
 <table>
   <tr>
+    <td valign="top" width="50%">
+      <h3>📲 <a href="https://github.com/raulpetruta/ha-wa-bridge">HA WhatsApp Bridge</a> <img src="https://img.shields.io/github/stars/raulpetruta/ha-wa-bridge?style=social" alt="Stars" /></h3>
+      A bridge to integrate WhatsApp with Home Assistant for sending messages and run automations based on received messages.<br /><br />
+      <code>Home Assistant</code> | <code>WhatsApp</code> | <code>Puppeteer</code> | <code>Docker</code>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🧺 <a href="https://github.com/raulpetruta/samsung-ha-washer-card">Samsung Washer Card</a> <img src="https://img.shields.io/github/stars/raulpetruta/samsung-ha-washer-card?style=social" alt="Stars" /></h3>
+      A beautiful, animated Home Assistant card for Samsung washing machines with SmartThings integration.<br /><br />
+      <code>Home Assistant</code> | <code>SmartThings</code> | <code>Lovelace</code> | <code>Samsung Washing Machine</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎙️ <a href="https://github.com/raulpetruta/voice-calibration-plugin">Voice Calibration Plugin</a> <img src="https://img.shields.io/github/stars/raulpetruta/voice-calibration-plugin?style=social" alt="Stars" /></h3>
+      A voice plugin that teaches AI to write more like you.<br /><br />
+      <code>AI</code> | <code>Voice</code> | <code>Writing</code>
+    </td>
     <td valign="top" width="50%">
       <h3>💡 <a href="https://github.com/raulpetruta/ha-govee-ring">Govee Ring</a> <img src="https://img.shields.io/github/stars/raulpetruta/ha-govee-ring?style=social" alt="Stars" /></h3>
       Control the ring of a Govee H60A4 ceiling light separately from its main panel in Home Assistant, fully local.<br /><br />
       <code>Home Assistant</code> | <code>Govee</code> | <code>HACS</code> | <code>LAN</code>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="50%">
       <h3>🎥 <a href="https://github.com/raulpetruta/obs-cine-zoom">OBS Cine Zoom</a> <img src="https://img.shields.io/github/stars/raulpetruta/obs-cine-zoom?style=social" alt="Stars" /></h3>
       An OBS Studio Lua script that zooms a display capture and follows your mouse, with smooth spring motion and auto-zoom on clicks, in the spirit of Screen Studio.<br /><br />
       <code>OBS Studio</code> | <code>Lua</code> | <code>Screen Recording</code> | <code>Zoom</code>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
